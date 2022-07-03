@@ -1,0 +1,2 @@
+#Thu Sep 03 20:34:50 CEST 2020
+SMOOTH_CLOUDS=true

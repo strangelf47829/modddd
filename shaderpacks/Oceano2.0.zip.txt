@@ -1,0 +1,4 @@
+#Fri Sep 04 22:00:11 CEST 2020
+Bloom=false
+MotionBlur=false
+FXAA=false
